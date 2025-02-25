@@ -1,0 +1,8 @@
+# Ignore credentials and sensitive files
+*.env
+*.json
+easycode.ignore
+credentials.json
+config.ini
+secrets/
+vscode/easycode.ignore

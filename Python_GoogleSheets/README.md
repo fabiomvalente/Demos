@@ -84,9 +84,10 @@ CREDENTIALS_FILE = 'token.json'  # Authentication token
 2️⃣ Data Loading: Reads data from the specified range  
 3️⃣ Data Filtering: Comboboxes for State, City, Seller, and Product  
 4️⃣ Data Management:  
-- ➕ Add new records
-- ✏️ Edit existing records
-- ❌ Delete records
-5️⃣ Data Export:
-- 📂 Export to a single Excel file
-- 📁 Export separated by state
+- ➕ Add new records  
+- ✏️ Edit existing records  
+- ❌ Delete records  
+
+5️⃣ Data Export:  
+- 📂 Export to a single Excel file  
+- 📁 Export separated by state  

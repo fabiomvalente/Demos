@@ -32,7 +32,6 @@ If you have suggestions, questions, or want to collaborate, feel free to open an
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/fabiomvalente)
 - 📧 [Email](mailto:fabiomvalente@gmail.com)
-- 📌 [GitHub](https://github.com/FabioMValente)
 
 ---
 

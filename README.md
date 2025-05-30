@@ -1,20 +1,26 @@
 # 🚀 Fabio M Valente - Demo Projects
 
 ## 📌 About This Repository
-Welcome to my demo repository! Here you will find practical code examples showcasing various technologies and concepts that I study and/or use daily as a **Solution Architect and Senior Developer**.
-
-My demonstrations will cover **system integration**, **ETL with Java**, **REST APIs**, **process automation**, **data manipulation**, and more.
+Welcome to my demo repository! Here you will find practical, structured examples demonstrating real-world concepts I've used in training, prototyping, or production proof-of-concepts.  
+As a **Solution Architect and Senior Developer**, I explore system integration, automation, data manipulation, and more.
 
 ---
 
 ## 🛠 Demonstrated Technologies
-- **Python**: Google Sheets integration demo. A little CRUD sample to use the API's on a aplication.
+- **Python**: Google Sheets integration demo. A simple CRUD example using the Google Sheets API for automation.
+- **Java**: Spring Boot + JPA/Hibernate RESTful WebService with layered architecture (Controller-Service-Repository), PostgreSQL integration, and exception handling.
 
 ---
 
 ## 📂 Projects and Examples
 ### 🔹 1. Python with GoogleSheets
-Example for data manipulation usin Google API and a Python CODE.
+Example for data manipulation using Google API and a Python script.
+
+### 🔹 2. Java with Spring Boot + JPA/Hibernate Webservices
+Training project with:
+- Spring Boot, JPA/Hibernate, PostgreSQL and H2
+- CRUD endpoints and exception handling
+- Simple model-service-controller architecture
 
 ---
 
@@ -36,4 +42,3 @@ If you have suggestions, questions, or want to collaborate, feel free to open an
 ---
 
 Thank you for visiting! 🚀
-

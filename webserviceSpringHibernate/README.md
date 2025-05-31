@@ -43,16 +43,16 @@ src/
 ### Steps
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/webservice-spring-hibernate.git
-   cd webservice-spring-hibernate
+   ```bash          
+   git clone https://github.com/fabiomvalente/Demos/tree/main/webserviceSpringHibernate.git
+   cd webserviceSpringHibernate
    ```
 
 2. Configure PostgreSQL in `src/main/resources/application.properties`:
    ```properties
-   spring.datasource.url=jdbc:postgresql://localhost:5432/your_database
-   spring.datasource.username=your_username
-   spring.datasource.password=your_password
+   spring.datasource.url=jdbc:postgresql://localhost:5432/<your_database>
+   spring.datasource.username=<your_username>
+   spring.datasource.password=<your_password>
    ```
 
 3. Build and run the application:
@@ -70,7 +70,8 @@ All endpoints can be tested using **Insomnia** or **Postman**. You can create a 
 ## ✅ Features
 
 - RESTful CRUD operations
-- H2 database for lightweight testing
+- H2 database for lightweight testing (developing)
+- Postgre database for users testing (homologation)
 - JPA repositories for data access
 - Separation of concerns with Service and Repository layers
 

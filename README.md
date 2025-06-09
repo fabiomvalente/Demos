@@ -9,6 +9,7 @@ As a **Solution Architect and Senior Developer**, I explore system integration, 
 ## 🛠 Demonstrated Technologies
 - **Python**: Google Sheets integration demo. A simple CRUD example using the Google Sheets API for automation.
 - **Java**: Spring Boot + JPA/Hibernate RESTful WebService with layered architecture (Controller-Service-Repository), PostgreSQL integration, and exception handling.
+- **Java**: MongoDB + Spring Boot RESTful WebService with user management and posts functionality, showing the integration of MongoDB NoSQL databases with Spring Boot.
 
 ---
 
@@ -20,6 +21,17 @@ Example for data manipulation using Google API and a Python script.
 Training project with:
 - Spring Boot, JPA/Hibernate, PostgreSQL and H2
 - CRUD endpoints and exception handling
+- Simple model-service-controller architecture
+
+### 🔹 3. Java with MongoDB + Spring Boot Webservices
+Training project with:
+- Spring Boot and MongoDB
+- User management with CRUD operations
+- Post creation and retrieval functionality
+- Text search in post titles and content
+- Date range filtering for posts
+- Custom exception handling with error responses
+- DTOs for API responses
 - Simple model-service-controller architecture
 
 ---
